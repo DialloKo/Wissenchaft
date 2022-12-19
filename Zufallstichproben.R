@@ -2,6 +2,8 @@
 ## C)
 
 ## Ziehen mit Zurücklegen:
+N <- 5000
+n <- 100
 emz <- sample(N, n, replace=TRUE )
 emz
 ## Ziehen ohne Zurücklegen:
